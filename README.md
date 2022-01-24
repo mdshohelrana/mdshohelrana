@@ -32,3 +32,6 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white" />  
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white" />   
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdshohelrana)](https://github.com/mdshohelrana/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdshohelrana&show_icons=true)  
