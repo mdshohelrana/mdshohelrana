@@ -1,8 +1,15 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Shohel, Frontend Engineer from <img src="https://flagcdn.com/16x12/bd.png" width="13"/> <b>Dhaka, Bangladesh</b></p>
-<h3>Things I code with</h3>
+<p>I'm Shohel, Frontend Engineer from <img src="https://flagcdn.com/16x12/bd.png" width="13"/> <b>Dhaka, Bangladesh</b></p>
+
+**What if you like my work?**
+
+- You can Star ⭐ the repositories you like. 
+- You can react ❤️ to my Linkedin posts.
+<br>
+
+## 🛠️ Languages and Tools:
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -33,5 +40,9 @@
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white" />   
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdshohelrana)](https://github.com/mdshohelrana/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdshohelrana&show_icons=true)  
+## Crunching The Numbers
+[![Shohel's github stats](https://github-readme-stats.vercel.app/api?username=mdshohelrana&show_icons=true&theme=merko)](https://github.com/mdshohelrana/github-readme-stats)
+<br>
+
+## Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdshohelrana&show_icons=true&theme=merko)](https://github.com/mdshohelrana/github-readme-stats)
