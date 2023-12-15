@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>I'm Shohel, Frontend Engineer from <img src="https://flagcdn.com/16x12/bd.png" width="13"/> <b>Dhaka, Bangladesh</b></p>
+<p>I'm Shohel Rana, Fullstack Engineer from <img src="https://flagcdn.com/16x12/fi.png" width="13"/> <b>Helsinki, Finland</b></p>
 
 **What if you like my work?**
 
