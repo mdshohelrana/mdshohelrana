@@ -1,48 +1,105 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1 align="center">👋 Hi, I'm Shohel Rana</h1>
+<h3 align="center">Software Architect | Aspiring Solution Architect | System Design & Cloud Enthusiast</h3>
 
-
-<p>I'm Shohel Rana, Fullstack Engineer from <img src="https://flagcdn.com/16x12/fi.png" width="13"/> <b>Helsinki, Finland</b></p>
-
-**What if you like my work?**
-
-- You can Star ⭐ the repositories you like. 
-- You can react ❤️ to my Linkedin posts.
-<br>
-
-## 🛠️ Languages and Tools:
-<p>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
-  <img alt="ReactNative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=for-the-badge&logo=styled-components&logoColor=white" />
-  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />  
-  <img alt="angularjs" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" />  
-  <img alt="VueJs" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=white" />   
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img alt="Material--UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
-  <img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="DJango" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img alt="CSHARP" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img alt="DotNet" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white" />  
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white" />   
+<p align="center">
+  <img src="https://flagcdn.com/16x12/fi.png" width="13"/> Helsinki, Finland • 
+  <a href="https://www.linkedin.com/in/mdshohelrana/" target="_blank">LinkedIn</a> • 
+  <a href="mailto:iamshohelrana@gmail.com">Email</a>
 </p>
 
-## Crunching The Numbers
-[![Shohel's github stats](https://github-readme-stats.vercel.app/api?username=mdshohelrana&show_icons=true&theme=merko)](https://github.com/mdshohelrana/github-readme-stats)
-<br>
+---
 
-## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdshohelrana&show_icons=true&theme=merko)](https://github.com/mdshohelrana/github-readme-stats)
+🔧 I specialize in designing **robust, scalable, cloud-native systems**. With years of fullstack experience, I'm now focused on **architecting software solutions** that align with business strategy, ensure long-term maintainability, and embrace modern engineering standards.
+
+> “Good software architecture is not just about choosing the right tools — it's about designing systems that evolve gracefully.”  
+
+---
+
+## 💼 Areas of Expertise
+
+- 🧠 **System Design & Architecture Patterns** – Microservices, Event-Driven Architecture, Monolith to Microservices Transition
+- ☁️ **Cloud-Native Development** – AWS (EC2, S3, Lambda, ECS, RDS), Azure fundamentals
+- 📐 **Domain-Driven Design (DDD)**, Clean Architecture, SOLID Principles
+- ⚙️ **DevOps & Infrastructure as Code** – Docker, GitHub Actions, Terraform, CI/CD pipelines
+- 📈 **Scalability, Reliability & Observability** – Load balancing, rate limiting, monitoring (Prometheus, Grafana)
+- 🔐 **Security Best Practices** – OAuth2, JWT, secure coding principles
+- 📊 **Data-Driven Architecture** – Kafka, PostgreSQL, NoSQL, event sourcing
+- 👥 **Technical Leadership** – Mentoring, documentation, stakeholder communication, trade-off analysis
+
+---
+
+## 🛠️ Technologies I Use and Design With
+
+### Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript)
+![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js)
+
+### Architecture & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql)
+
+### DevOps & Monitoring
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana)
+![ELK Stack](https://img.shields.io/badge/ELK-005571?style=flat-square&logo=elasticstack)
+
+---
+
+## 🏗️ Software Architecture Principles I Follow
+
+✅ **Clean Architecture**  
+✅ **Scalability by Design**  
+✅ **Infrastructure as Code (IaC)**  
+✅ **Observability First**  
+✅ **Security from Day One**  
+✅ **Test-Driven and Behavior-Driven Development (TDD/BDD)**  
+✅ **API-First Development**  
+✅ **Loose Coupling & High Cohesion**
+
+---
+
+## 📊 GitHub Insights
+
+[![Shohel's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdshohelrana&show_icons=true&theme=tokyonight)](https://github.com/mdshohelrana)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdshohelrana&layout=compact&theme=tokyonight)](https://github.com/mdshohelrana)
+
+---
+
+## ✍️ Upcoming Content
+📌 I'm working on:
+- ✍️ **System Design Case Studies**  
+- 🧱 Sample architecture diagrams with PlantUML / Mermaid  
+- 🧪 Testing strategies at scale  
+- 📜 Documentation best practices
+
+---
+
+## 🤝 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/mdshohelrana/)
+- 📬 Email: iamshohelrana@gmail.com
+- 🌍 Open to speaking, mentoring, and architecture consulting opportunities
+
+---
+
+> _“Architecture is about intent — shaping code and infrastructure to align with a long-term vision.”_
